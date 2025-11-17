@@ -28,7 +28,7 @@ For a full list of Celo repositories, visit the [Celo GitHub organization](https
 - [Celo Docs](https://docs.celo.org/)
 - [Developer Guide](https://docs.celo.org/developer)
 
-## 🚀 Getting Started
+## 🚀 Getting Started -
 
 ```bash
 git clone https://github.com/celo-org/celo-monorepo.git
