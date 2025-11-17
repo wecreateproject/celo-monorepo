@@ -6,16 +6,16 @@
   </picture>
 </div>
 
-# Celo Monorepo
+# Celo Monorepo 
 
-This repository contains the Core Contracts for the Celo Blockchain. Most Celo projects have moved to dedicated repositories.
+This repository contains the Core Contracts for the Celo Blockchain. Most Celo projects have moved to dedicated repositories. 
 
 - **Celo Blockchain Execution Client**: [celo-org/op-geth](https://github.com/celo-org/op-geth)
 - **Developer Tooling**: [celo-org/developer-tooling](https://github.com/celo-org/developer-tooling)
 - **Helm Charts**: [celo-org/charts](https://github.com/celo-org/charts)
-- **SocialConnect**: [celo-org/social-connect](https://github.com/celo-org/social-connect)
+- **SocialConnect**: [celo-org/social-connect](https://github.com/celo-org/social-connect) 
 - **Valora Wallet**: [valora-inc](https://github.com/valora-inc)
-- **Mento Protocol**: [mento-protocol](https://github.com/mento-protocol)
+- **Mento Protocol**: [mento-protocol](https://github.com/mento-protocol) 
 
 For a full list of Celo repositories, visit the [Celo GitHub organization](https://github.com/celo-org).
 
@@ -43,4 +43,4 @@ yarn build --ignore docs
 |:------------:|:----------:|:--------------:|
 | [🌐 Website](https://celo.org/) | [🐦 X (Twitter)](https://x.com/Celo) | [💬 Discord](https://discord.com/invite/celo) |
 | [📚 Docs](https://docs.celo.org/) | [📰 Blog](https://blog.celo.org/) | [🗣️ Forum](https://forum.celo.org) |
-| [🎥 YouTube](https://www.youtube.com/channel/UCCZgos_YAJSXm5QX5D5Wkcw/videos?view=0&sort=p&flow=grid) | [👾 Reddit](https://www.reddit.com/r/CeloHQ/) | [💡 GitHub Discussions](https://github.com/celo-org/celo-monorepo/discussions) |
+| [🎥 YouTube](https://www.youtube.com/channel/UCCZgos_YAJSXm5QX5D5Wkcw/videos?view=0&sort=p&flow=grid) | [👾 Reddit](https://www.reddit.com/r/CeloHQ/) | [💡 GitHub Discussions](https://github.com/celo-org/celo-monorepo/discussions) | 
