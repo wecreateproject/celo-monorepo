@@ -6,7 +6,7 @@
   </picture>
 </div>
 
-# Celo Monorepo 
+# Celo Monorepo: 
 
 This repository contains the Core Contracts for the Celo Blockchain. Most Celo projects have moved to dedicated repositories. 
 
